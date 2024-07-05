@@ -25,10 +25,6 @@
 <img align="center" height="50" width="50" src="https://github.com/thalesfranklin/Thales-Cristiano/assets/170066922/e4b18cfc-3285-4b71-90ec-d1b4faf97ff0">
 </a>
 
-<a  href="https://www.instagram.com/thalesfranklin_/" target="_blank">
-<img align="center"  height="60" width="60" src="https://github.com/thalesfranklin/Thales-Cristiano/assets/170066922/fdc3e0dc-fedf-4c02-acf7-f6c7fd0eb56d">
-</a>
-
 </div>
 
 <br>
