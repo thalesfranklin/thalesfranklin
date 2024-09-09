@@ -1,5 +1,20 @@
-# Thales-Cristiano
-<h1 align="center">Technologies</h1>
+<h1 align="center">Welcome:</h1>
+
+###
+
+<h2 align="center">- FULLSTACK DEVELOPER</h2>
+
+###
+
+<h3 align="center">About me :</h3>
+
+###
+
+<p align="center">Hi there! I’m a programming enthusiast with a passion for crafting innovative solutions. When I’m not coding, you’ll find me enjoying music, exploring new weightlifting and CrossFit routines, or striving to balance work and personal life. I love integrating the discipline of the gym with the creativity of programming to maintain a balanced and productive routine.</p>
+
+###
+
+<h2 align="center">Technologies :</h2>
 
 ###
 
@@ -20,14 +35,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
 </div>
-
-###
-
-<h2 align="center">- FULLSTACK DEVELOPER</h2>
-
-###
-
-<h3 align="center">Welcome:</h3>
 
 ###
 
@@ -56,9 +63,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/thalesfranklin/thalesfranklin/output/snake.svg" alt="Snake animation" />
 
 ###
