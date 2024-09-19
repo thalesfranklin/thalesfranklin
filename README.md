@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">Hi there! I’m a programming enthusiast with a passion for crafting innovative solutions. When I’m not coding, you’ll find me enjoying music, exploring new weightlifting and CrossFit routines, or striving to balance work and personal life. I love integrating the discipline of the gym with the creativity of programming to maintain a balanced and productive routine.</p>
+<p align="center">Olá! Sou um entusiasta da programação com paixão por criar soluções inovadoras. Quando não estou codificando, você pode me encontrar ouvindo música, explorando novas rotinas de musculação e CrossFit, ou buscando equilíbrio entre o trabalho e a vida pessoal. Adoro integrar a disciplina da academia e a criatividade da programação para manter uma rotina equilibrada e produtiva.</p>
 
 ###
 
@@ -34,6 +34,8 @@
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
 ###
