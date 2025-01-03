@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">Olá! Sou um entusiasta da programação com paixão por criar soluções inovadoras. Quando não estou codificando, você pode me encontrar ouvindo música, explorando novas rotinas de musculação e CrossFit, ou buscando equilíbrio entre o trabalho e a vida pessoal. Adoro integrar a disciplina da academia e a criatividade da programação para manter uma rotina equilibrada e produtiva.</p>
+<p align="center">Olá! Sou um entusiasta da programação com paixão por criar soluções inovadoras. Quando não estou codificando, você pode me encontrar ouvindo música, explorando novas rotinas de musculação e boxe, ou buscando equilíbrio entre o trabalho e a vida pessoal. Adoro integrar a disciplina da academia e a criatividade da programação para manter uma rotina equilibrada e produtiva.</p>
 
 ###
 
