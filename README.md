@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">- FULLSTACK DEVELOPER</h2>
+<h2 align="center">- FRONT END DEVELOPER</h2>
 
 ###
 
