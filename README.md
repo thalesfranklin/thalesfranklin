@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">-DEVELOPER</h2>
+<h2 align="center">- JAVA DEVELOPER</h2>
 
 ###
 
