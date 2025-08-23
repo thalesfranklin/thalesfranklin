@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">- FRONT END DEVELOPER</h2>
+<h2 align="center">-DEVELOPER</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">Olá! Sou um entusiasta da programação com paixão por criar soluções inovadoras. Quando não estou codificando, você pode me encontrar ouvindo música, explorando novas rotinas de musculação e boxe, ou buscando equilíbrio entre o trabalho e a vida pessoal. Adoro integrar a disciplina da academia e a criatividade da programação para manter uma rotina equilibrada e produtiva.</p>
+<p align="center">Olá! Sou um entusiasta da programação com paixão por criar soluções inovadoras. Quando não estou codificando, você pode me encontrar ouvindo música, explorando novas rotinas de musculação e CrossFit, ou buscando equilíbrio entre o trabalho e a vida pessoal. Adoro integrar a disciplina da academia e a criatividade da programação para manter uma rotina equilibrada e produtiva.</p>
 
 ###
 
@@ -19,15 +19,13 @@
 ###
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
   <img width="12" />
